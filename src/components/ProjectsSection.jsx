@@ -3,7 +3,7 @@ const projects = [
     year: '2026',
     title: 'About Me in React',
     description: 'My first React project, rebuilt from a plain HTML page.',
-    url: 'https://github.com/OstriaPaulAlbert/CSIT340G8-Lab3-Ostria.git',
+    url: 'https://github.com/kenricmuana/CSIT340G8-Lab3-Muana.git',
   },
 ]
 

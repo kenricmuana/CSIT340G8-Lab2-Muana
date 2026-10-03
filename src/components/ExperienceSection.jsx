@@ -12,6 +12,18 @@ const experiences = [
     title: 'Senior High School, STEM Strand',
     place: 'Cebu Institute of Technology - University',
   },
+  {
+    period: '2018 – 2022',
+    title: 'Junior High School',
+    place: 'Cebu Institute of Technology - University',
+    description: 'Developed foundational skills in mathematics, science, and social studies.',
+  },
+  {
+    period: '2015 - 2018',
+    title: 'Elementary School',
+    place: 'Cebu Institute of Technology - University',
+    description: 'Learned basic literacy, numeracy, and social skills.',
+  }
 ]
 
 export default function ExperienceSection() {

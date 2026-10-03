@@ -11,9 +11,7 @@ export default function AboutSection() {
       <h2 className="text-2xl font-semibold tracking-tight">About</h2>
       <p className="mt-2 text-stone-600">A little about who I am.</p>
       <p className="mt-6 max-w-2xl leading-relaxed text-stone-700">
-        I grew up in Camotes Island and moved to Cebu City for Shs and then College. Actually I picked IT because my
-        wanted it, this is the program that they want me to take. And until now im still slow at programming 
-        but i am trying my best to master it.
+        I am a third year IT student at Cebu Institute of Technology – University, currently taking up web development, databases, and systems analysis. I am passionate about programming and constantly strive to improve my skills and knowledge in the field. My goal is to become a proficient software developer and contribute to the tech industry with innovative solutions.
       </p>
       <dl className="mt-8 grid grid-cols-2 gap-6 sm:grid-cols-4">
         {facts.map((fact) => (

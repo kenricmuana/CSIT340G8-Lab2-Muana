@@ -1,6 +1,6 @@
 const contacts = [
-  { label: 'Institutional Email', text: 'paulalbert.ostria@cit.edu', href: 'https://outlook.office.com/mail/' },
-  { label: 'GitHub', text: 'github.com', href: 'https://github.com/OstriaPaulAlbert' },
+  { label: 'Institutional Email', text: 'kenric.muana@cit.edu', href: 'https://outlook.office.com/mail/' },
+  { label: 'GitHub', text: 'github.com/kenricmuana', href: 'https://github.com/kenricmuana' },
   { label: 'Gmail', text: 'gmail.com', href: 'https://mail.google.com/mail/u/0/#inbox' },
 ]
 

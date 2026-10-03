@@ -2,9 +2,9 @@ export default function Hero() {
   return (
     <header id="top" className="max-w-4xl mx-auto px-6 pt-20 pb-16 scroll-mt-16">
       <p className="text-sm font-medium text-stone-500">Hi, I'm</p>
-      <h1 className="mt-2 text-5xl font-semibold tracking-tight">Paul Albert L. Ostria</h1>
+      <h1 className="mt-2 text-5xl font-semibold tracking-tight">Kenric M. Muana</h1>
       <p className="mt-4 max-w-xl text-lg leading-relaxed text-stone-600">
-        A third year IT student who builds small web apps for the people around me.
+        A third year IT student whos trying his best to gain more knowledge and master programming.
       </p>
       <div className="mt-8 flex gap-3">
         <a
